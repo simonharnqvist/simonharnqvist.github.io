@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bridging Spark and Dask with Apache Iceberg: A Practical Workaround
+title: "Bridging Spark and Dask with Apache Iceberg: A Practical Workaround"
 date: 2025-08-06 16:03 +0100
 ---
 # Bridging Spark and Dask with Apache Iceberg: A Practical Workaround
