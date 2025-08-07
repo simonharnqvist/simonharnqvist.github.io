@@ -28,16 +28,16 @@ url: "https://simonharnqvist.github.io"
 github:
   username: simonharnqvist # change to your GitHub username
 
+linkedin:
+  username: simonharnqvist
+
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Simon Harnqvist
   email: s.e.harnqvist@gmail.com # change to your email address
+  linkedin: linkedin.com/simonharnqvist
   links:
-    # The first element serves as the copyright owner's link
-    - https://github.com/simonharnqvist # change to your GitHub homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
     - https://www.linkedin.com/in/simonharnqvist
 
 # Site Verification Settings
